@@ -1,7 +1,4 @@
- 
-
-
-In this HTML/CSS code I have created a front-end UI using HTML/CSS and the help of bootstrap 3.
+ In this HTML/CSS code I have created a front-end UI using HTML/CSS and the help of bootstrap 3.
 
 The icons such as "Sign UP" are taken from https://fontawesome.com/
 
